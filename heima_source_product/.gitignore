@@ -1,0 +1,8 @@
+.idea
+*.iml
+*.ipr
+*.iws
+.DS_Store
+heima_common/target
+heima_source_product/target
+heima_auth_server/target
